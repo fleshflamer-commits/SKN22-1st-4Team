@@ -72,6 +72,7 @@ SKN22-1st-4Team/
 │   └── secrets.toml
 └── requirements.txt
 ```
+
 ## 4. 💾 데이터 출처
 
 * 본 프로젝트의 데이터는 공공데이터포털의 [**한국교통안전공단_자동차 리콜대수 및 시정률**](https://www.data.go.kr/data/15125831/fileData.do) 데이터를 기반으로 합니다.
